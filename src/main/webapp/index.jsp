@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-oooooooooooooooooo
+this is default index page
 </body>
 </html>
